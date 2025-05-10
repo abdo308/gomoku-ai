@@ -37,4 +37,4 @@ An AI-powered Gomoku (Five in a Row) game with Minimax and Alpha-Beta Pruning al
 
 ---
 ### Note 
-  - if you want to change the way the ai plays got and change the depth if you increase it it will be slow because it will take time to explore the moves.
+  - if you want to change the way the ai plays go and change the depth if you increase it it will be slow because it will take time to explore the moves.
